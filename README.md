@@ -37,7 +37,7 @@ Start the backend first! Its repository and instructions are here:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Fonzy57/ActinVision-FRONT.git
+git clone https://github.com/Fonzy57/actinvision-front.git
 ```
 
 ### 2. Install dependencies
